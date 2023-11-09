@@ -32,6 +32,7 @@
 		FEDEBF662ACC58A100C76C1D /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDEBF652ACC58A100C76C1D /* SpacerBootcamp.swift */; };
 		FEE073652AFBC4D300FE7CB9 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073642AFBC4D300FE7CB9 /* ButtonsBootcamp.swift */; };
 		FEE073672AFC386A00FE7CB9 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073662AFC386A00FE7CB9 /* StateBootcamp.swift */; };
+		FEE073692AFCE6A000FE7CB9 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		FEDEBF652ACC58A100C76C1D /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		FEE073642AFBC4D300FE7CB9 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		FEE073662AFC386A00FE7CB9 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
+		FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				FE6DEB052AFB9B7E00CE26FD /* SafeAreaBootcamp.swift */,
 				FEE073642AFBC4D300FE7CB9 /* ButtonsBootcamp.swift */,
 				FEE073662AFC386A00FE7CB9 /* StateBootcamp.swift */,
+				FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -321,6 +324,7 @@
 				FEB503612AF8F41F0008A387 /* InitializerBootcamp.swift in Sources */,
 				FE51F6CE2AA727D300782046 /* ShapesBootcamp.swift in Sources */,
 				FEE073652AFBC4D300FE7CB9 /* ButtonsBootcamp.swift in Sources */,
+				FEE073692AFCE6A000FE7CB9 /* ExtractedFunctions.swift in Sources */,
 				FE6DEB062AFB9B7F00CE26FD /* SafeAreaBootcamp.swift in Sources */,
 				FE9AD15E2AA5F5C200B68355 /* ContentView.swift in Sources */,
 				FEB503632AF927E70008A387 /* ForEachBootcamp.swift in Sources */,
