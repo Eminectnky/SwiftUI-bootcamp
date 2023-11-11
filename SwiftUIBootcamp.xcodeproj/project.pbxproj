@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE4CBD442AFF794D00B83618 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4CBD432AFF794D00B83618 /* BindingBootcamp.swift */; };
 		FE51F6CE2AA727D300782046 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE51F6CD2AA727D300782046 /* ShapesBootcamp.swift */; };
 		FE51F6D02AA73C8400782046 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE51F6CF2AA73C8400782046 /* ColorsBootcamp.swift */; };
 		FE6DEB062AFB9B7F00CE26FD /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6DEB052AFB9B7E00CE26FD /* SafeAreaBootcamp.swift */; };
@@ -54,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FE4CBD432AFF794D00B83618 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		FE51F6CD2AA727D300782046 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		FE51F6CF2AA73C8400782046 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		FE6DEB052AFB9B7E00CE26FD /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				FEE073662AFC386A00FE7CB9 /* StateBootcamp.swift */,
 				FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */,
 				FEAED2312AFECC4500F582CD /* ExractSubviewsBootcamp.swift */,
+				FE4CBD432AFF794D00B83618 /* BindingBootcamp.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -335,6 +338,7 @@
 				FE9AD1882AA5F9C700B68355 /* TextBootcamp.swift in Sources */,
 				FE9AD15C2AA5F5C200B68355 /* SwiftUIBootcampApp.swift in Sources */,
 				FEDEBF622ACAD3AC00C76C1D /* StacksBootcamp.swift in Sources */,
+				FE4CBD442AFF794D00B83618 /* BindingBootcamp.swift in Sources */,
 				FEDEBF662ACC58A100C76C1D /* SpacerBootcamp.swift in Sources */,
 				FE76E3472AFACB85008186D7 /* GridBootcamp.swift in Sources */,
 				FEA7EA9A2AC9B15900406BE6 /* ImageBootcamp.swift in Sources */,
