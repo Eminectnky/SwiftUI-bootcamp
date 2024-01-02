@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FE2252B92B02182800935C99 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2252B82B02182800935C99 /* PopoverBootcamp.swift */; };
+		FE2EE3582B44422D008EEE2F /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EE3572B44422D008EEE2F /* NavigationViewBootcamp.swift */; };
 		FE4CBD442AFF794D00B83618 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4CBD432AFF794D00B83618 /* BindingBootcamp.swift */; };
 		FE4CBD462AFF852000B83618 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4CBD452AFF852000B83618 /* ConditionalBootcamp.swift */; };
 		FE51F6CE2AA727D300782046 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE51F6CD2AA727D300782046 /* ShapesBootcamp.swift */; };
@@ -63,6 +64,7 @@
 
 /* Begin PBXFileReference section */
 		FE2252B82B02182800935C99 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
+		FE2EE3572B44422D008EEE2F /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		FE4CBD432AFF794D00B83618 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		FE4CBD452AFF852000B83618 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		FE51F6CD2AA727D300782046 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
@@ -180,6 +182,7 @@
 				FEDE61222B010CED00D0E0CA /* TransitionBootcamp.swift */,
 				FEDE61242B01471B00D0E0CA /* SheetsBootcamp.swift */,
 				FE2252B82B02182800935C99 /* PopoverBootcamp.swift */,
+				FE2EE3572B44422D008EEE2F /* NavigationViewBootcamp.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -368,6 +371,7 @@
 				FEDEBF662ACC58A100C76C1D /* SpacerBootcamp.swift in Sources */,
 				FEC9F04F2B00311C008FA335 /* AnimationBootcamp.swift in Sources */,
 				FE76E3472AFACB85008186D7 /* GridBootcamp.swift in Sources */,
+				FE2EE3582B44422D008EEE2F /* NavigationViewBootcamp.swift in Sources */,
 				FE4CBD462AFF852000B83618 /* ConditionalBootcamp.swift in Sources */,
 				FEA7EA9A2AC9B15900406BE6 /* ImageBootcamp.swift in Sources */,
 				FED2D3E42ABF858300F11E61 /* IconsBootcamp.swift in Sources */,
