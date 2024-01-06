@@ -50,6 +50,7 @@
 		FEE073652AFBC4D300FE7CB9 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073642AFBC4D300FE7CB9 /* ButtonsBootcamp.swift */; };
 		FEE073672AFC386A00FE7CB9 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073662AFC386A00FE7CB9 /* StateBootcamp.swift */; };
 		FEE073692AFCE6A000FE7CB9 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */; };
+		FEEAABBF2B4945AC0093AAED /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,6 +117,7 @@
 		FEE073642AFBC4D300FE7CB9 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		FEE073662AFC386A00FE7CB9 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
+		FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				FE39A2432B46E8B500811B98 /* ContextMenuBootcamp.swift */,
 				FE5DB2502B48266700E3F61F /* TextfieldBootcamp.swift */,
 				FE5DB2522B4848A600E3F61F /* TextEditorBootcamp.swift */,
+				FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -395,6 +398,7 @@
 				FEDEBF622ACAD3AC00C76C1D /* StacksBootcamp.swift in Sources */,
 				FE2252B92B02182800935C99 /* PopoverBootcamp.swift in Sources */,
 				FE2EE35E2B44D65C008EEE2F /* AlertBootcamp.swift in Sources */,
+				FEEAABBF2B4945AC0093AAED /* ToggleBootcamp.swift in Sources */,
 				FE4CBD442AFF794D00B83618 /* BindingBootcamp.swift in Sources */,
 				FEDEBF662ACC58A100C76C1D /* SpacerBootcamp.swift in Sources */,
 				FEC9F04F2B00311C008FA335 /* AnimationBootcamp.swift in Sources */,
