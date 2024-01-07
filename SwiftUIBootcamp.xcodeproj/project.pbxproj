@@ -51,6 +51,7 @@
 		FEE073672AFC386A00FE7CB9 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073662AFC386A00FE7CB9 /* StateBootcamp.swift */; };
 		FEE073692AFCE6A000FE7CB9 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */; };
 		FEEAABBF2B4945AC0093AAED /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */; };
+		FEEAABC12B494B1F0093AAED /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEAABC02B494B1F0093AAED /* PickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -118,6 +119,7 @@
 		FEE073662AFC386A00FE7CB9 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
+		FEEAABC02B494B1F0093AAED /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 				FE5DB2502B48266700E3F61F /* TextfieldBootcamp.swift */,
 				FE5DB2522B4848A600E3F61F /* TextEditorBootcamp.swift */,
 				FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */,
+				FEEAABC02B494B1F0093AAED /* PickerBootcamp.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -402,6 +405,7 @@
 				FE4CBD442AFF794D00B83618 /* BindingBootcamp.swift in Sources */,
 				FEDEBF662ACC58A100C76C1D /* SpacerBootcamp.swift in Sources */,
 				FEC9F04F2B00311C008FA335 /* AnimationBootcamp.swift in Sources */,
+				FEEAABC12B494B1F0093AAED /* PickerBootcamp.swift in Sources */,
 				FE76E3472AFACB85008186D7 /* GridBootcamp.swift in Sources */,
 				FE2EE3582B44422D008EEE2F /* NavigationViewBootcamp.swift in Sources */,
 				FE4CBD462AFF852000B83618 /* ConditionalBootcamp.swift in Sources */,
