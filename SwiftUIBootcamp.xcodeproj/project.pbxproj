@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE0FA8D72B4C202A00D96C7A /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0FA8D62B4C202A00D96C7A /* ColorPickerBootcamp.swift */; };
 		FE2252B92B02182800935C99 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2252B82B02182800935C99 /* PopoverBootcamp.swift */; };
 		FE2EE3582B44422D008EEE2F /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EE3572B44422D008EEE2F /* NavigationViewBootcamp.swift */; };
 		FE2EE35A2B446420008EEE2F /* NavigationViewBootcamp1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EE3592B446420008EEE2F /* NavigationViewBootcamp1.swift */; };
@@ -72,6 +73,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FE0FA8D62B4C202A00D96C7A /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		FE2252B82B02182800935C99 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		FE2EE3572B44422D008EEE2F /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		FE2EE3592B446420008EEE2F /* NavigationViewBootcamp1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp1.swift; sourceTree = "<group>"; };
@@ -210,6 +212,7 @@
 				FE5DB2522B4848A600E3F61F /* TextEditorBootcamp.swift */,
 				FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */,
 				FEEAABC02B494B1F0093AAED /* PickerBootcamp.swift */,
+				FE0FA8D62B4C202A00D96C7A /* ColorPickerBootcamp.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -399,6 +402,7 @@
 				FEDE61232B010CED00D0E0CA /* TransitionBootcamp.swift in Sources */,
 				FE5DB2532B4848A600E3F61F /* TextEditorBootcamp.swift in Sources */,
 				FEDEBF622ACAD3AC00C76C1D /* StacksBootcamp.swift in Sources */,
+				FE0FA8D72B4C202A00D96C7A /* ColorPickerBootcamp.swift in Sources */,
 				FE2252B92B02182800935C99 /* PopoverBootcamp.swift in Sources */,
 				FE2EE35E2B44D65C008EEE2F /* AlertBootcamp.swift in Sources */,
 				FEEAABBF2B4945AC0093AAED /* ToggleBootcamp.swift in Sources */,
