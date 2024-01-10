@@ -56,6 +56,7 @@
 		FEE073692AFCE6A000FE7CB9 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */; };
 		FEEAABBF2B4945AC0093AAED /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */; };
 		FEEAABC12B494B1F0093AAED /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEAABC02B494B1F0093AAED /* PickerBootcamp.swift */; };
+		FEEF636C2B4F0DB500C221EC /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEF636B2B4F0DB500C221EC /* TabViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -128,6 +129,7 @@
 		FEE073682AFCE6A000FE7CB9 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		FEEAABBE2B4945AC0093AAED /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		FEEAABC02B494B1F0093AAED /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
+		FEEF636B2B4F0DB500C221EC /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +224,7 @@
 				FE57F2852B4DE01C0038A28E /* DatePickerBootcamp.swift */,
 				FE57F2872B4E97C50038A28E /* StepperBootcamp.swift */,
 				FE57F2892B4E9F4E0038A28E /* SliderBootcamp.swift */,
+				FEEF636B2B4F0DB500C221EC /* TabViewBootcamp.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -393,6 +396,7 @@
 				FE76E3452AFA3758008186D7 /* ScrollViewBootcamp.swift in Sources */,
 				FEDEBF642ACB412900C76C1D /* PaddingAndSpacerBootcamp.swift in Sources */,
 				FE51F6D02AA73C8400782046 /* ColorsBootcamp.swift in Sources */,
+				FEEF636C2B4F0DB500C221EC /* TabViewBootcamp.swift in Sources */,
 				FE2EE35C2B447F72008EEE2F /* ListBootcamp.swift in Sources */,
 				FEDEBF5E2ACAAB0C00C76C1D /* FrameBootcamp.swift in Sources */,
 				FE2EE35A2B446420008EEE2F /* NavigationViewBootcamp1.swift in Sources */,
