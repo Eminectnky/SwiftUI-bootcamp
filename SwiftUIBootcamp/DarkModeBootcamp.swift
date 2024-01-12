@@ -46,7 +46,7 @@ struct DarkModeBootcamp: View {
             .preferredColorScheme(.light)
         
         DarkModeBootcamp()
-            .preferredColorScheme(.light)
+            .preferredColorScheme(.dark)
     }
   
 }
