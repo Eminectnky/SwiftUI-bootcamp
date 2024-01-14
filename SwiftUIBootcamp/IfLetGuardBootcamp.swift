@@ -9,7 +9,7 @@ import SwiftUI
 
 struct IfLetGuardBootcamp: View {
     
-    @State var currentUserId: String? = "testuser123"
+    @State var currentUserId: String? = nil
     @State var displayText: String? = nil
     @State var isLoading: Bool = false
     
@@ -18,10 +18,17 @@ struct IfLetGuardBootcamp: View {
             VStack{
                 Text("Here we are practicing safe coding!")
                 
+ 
                 if let text = displayText{
                     Text(text)
                         .font(.title)
                 }
+                
+                
+//                DO NOT USER ! EVER!!!!!!
+//                DO NOT FORCE UNWRAP VALUES
+//                Text(displayText!)
+//                    .font(.title)
                 
                 if isLoading{
                     ProgressView()
@@ -32,7 +39,7 @@ struct IfLetGuardBootcamp: View {
             }
             .navigationTitle("Safe Coding")
             .onAppear{
-                loadData()
+                loadData2()
             }
         }
     }
@@ -49,6 +56,23 @@ struct IfLetGuardBootcamp: View {
             displayText = "Error. There is no User ID!"
         }
         
+    }
+    
+    func loadData2() {
+        
+        
+        guard let userID = currentUserId else {
+            displayText = "Error. There is no User ID!"
+            return
+        }
+        Text(displayText!)
+            .font(.title)
+        
+        isLoading = true
+        DispatchQueue.main.asyncAfter(deadline: .now() + 3){
+            displayText = "This is the new data! User id is: \(userID)"
+            isLoading = false
+        }
     }
 }
 
