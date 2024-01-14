@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FE0FA8D72B4C202A00D96C7A /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0FA8D62B4C202A00D96C7A /* ColorPickerBootcamp.swift */; };
+		FE1408F12B5413AF0077841E /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1408F02B5413AF0077841E /* TapGestureBootcamp.swift */; };
 		FE2252B92B02182800935C99 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2252B82B02182800935C99 /* PopoverBootcamp.swift */; };
 		FE2EE3582B44422D008EEE2F /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EE3572B44422D008EEE2F /* NavigationViewBootcamp.swift */; };
 		FE2EE35A2B446420008EEE2F /* NavigationViewBootcamp1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2EE3592B446420008EEE2F /* NavigationViewBootcamp1.swift */; };
@@ -82,6 +83,7 @@
 
 /* Begin PBXFileReference section */
 		FE0FA8D62B4C202A00D96C7A /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
+		FE1408F02B5413AF0077841E /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 		FE2252B82B02182800935C99 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		FE2EE3572B44422D008EEE2F /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		FE2EE3592B446420008EEE2F /* NavigationViewBootcamp1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp1.swift; sourceTree = "<group>"; };
@@ -237,6 +239,7 @@
 				FE803BD72B50336100510D5D /* DocumentationBootcamp.swift */,
 				FE803BDC2B51D33A00510D5D /* OnAppearBootcamp.swift */,
 				FEC6987B2B532A6400A7C27F /* IfLetGuardBootcamp.swift */,
+				FE1408F02B5413AF0077841E /* TapGestureBootcamp.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -404,6 +407,7 @@
 				FECE39812AA8AD6600F55C39 /* GradientsBootcamp.swift in Sources */,
 				FE5DB2512B48266700E3F61F /* TextfieldBootcamp.swift in Sources */,
 				FE57F2882B4E97C50038A28E /* StepperBootcamp.swift in Sources */,
+				FE1408F12B5413AF0077841E /* TapGestureBootcamp.swift in Sources */,
 				FEDEBF602ACAB6D900C76C1D /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				FE76E3452AFA3758008186D7 /* ScrollViewBootcamp.swift in Sources */,
 				FEDEBF642ACB412900C76C1D /* PaddingAndSpacerBootcamp.swift in Sources */,
