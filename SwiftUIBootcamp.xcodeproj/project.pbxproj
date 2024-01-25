@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE05599E2B62D8C1005B06C2 /* ToolbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE05599D2B62D8C1005B06C2 /* ToolbarBootcamp.swift */; };
 		FE0FA8D72B4C202A00D96C7A /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0FA8D62B4C202A00D96C7A /* ColorPickerBootcamp.swift */; };
 		FE1408F12B5413AF0077841E /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1408F02B5413AF0077841E /* TapGestureBootcamp.swift */; };
 		FE1408F32B541B6D0077841E /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1408F22B541B6D0077841E /* ModelBootcamp.swift */; };
@@ -98,6 +99,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FE05599D2B62D8C1005B06C2 /* ToolbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootcamp.swift; sourceTree = "<group>"; };
 		FE0FA8D62B4C202A00D96C7A /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		FE1408F02B5413AF0077841E /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 		FE1408F22B541B6D0077841E /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
@@ -286,6 +288,7 @@
 				FECCA0422B604F2E00BBB6D1 /* FocusStateBootcamp.swift */,
 				FECCA0442B6069E200BBB6D1 /* SubmitTextFieldBootcamp.swift */,
 				FECCA0462B606D9500BBB6D1 /* NavigationStackBootcamp.swift */,
+				FE05599D2B62D8C1005B06C2 /* ToolbarBootcamp.swift */,
 				FE9AD15F2AA5F5C400B68355 /* Assets.xcassets */,
 				FE9AD1612AA5F5C400B68355 /* Preview Content */,
 			);
@@ -522,6 +525,7 @@
 				FE803BDD2B51D33A00510D5D /* OnAppearBootcamp.swift in Sources */,
 				FE4CBD462AFF852000B83618 /* ConditionalBootcamp.swift in Sources */,
 				FEA7EA9A2AC9B15900406BE6 /* ImageBootcamp.swift in Sources */,
+				FE05599E2B62D8C1005B06C2 /* ToolbarBootcamp.swift in Sources */,
 				FED2D3E42ABF858300F11E61 /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
